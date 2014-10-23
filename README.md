@@ -1,4 +1,4 @@
 RoslynDemos
 ===========
 
-A simple set of the Roslyn compiler demos
+Some Roslyn compiler demos
